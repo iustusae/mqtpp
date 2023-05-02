@@ -1,0 +1,3 @@
+/Users/iustus/codium/build/CMakeFiles/mqt.dir
+/Users/iustus/codium/build/CMakeFiles/edit_cache.dir
+/Users/iustus/codium/build/CMakeFiles/rebuild_cache.dir
